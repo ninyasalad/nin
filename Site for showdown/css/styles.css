@@ -1,0 +1,60 @@
+body{
+  background-color: #E4F9F5;
+  text-align: center;
+}
+
+h1{
+  font-size: 3.75rem;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h2{
+}
+
+.title{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bigtitle{
+  font-family: 'Sacramento', cursive;
+  margin: auto auto auto 0;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  text-align: center;
+  width: 30%;
+}
+
+h3{
+  color: #11999E;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.CSIE-pic{
+  float: left;
+  margin-right: 30px;
+}
+.Arduino-pic{
+  float: left;
+  margin-right: 30px;
+}
+/*font-family: 'Libre Baskerville', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Sacramento', cursive;  */
